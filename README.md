@@ -1,2 +1,2 @@
 # helloworld
-My repo 4 skillf study
+My repo 4 SkillFactory studying.
